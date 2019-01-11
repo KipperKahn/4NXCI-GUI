@@ -18,5 +18,5 @@ Given the xci location and the save location, the GUI does the following when Co
     - delete the temporary working folder
     - inform you that the conversion is complete
 
-Install insctuctions:
+Install instructions:
   Place the 4NXCI-GUI.EXE in the same folder where your 4NXCI.EXE resides.
