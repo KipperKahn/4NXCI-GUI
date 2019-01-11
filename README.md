@@ -20,5 +20,3 @@ Given the xci location and the save location, the GUI does the following when Co
 
 Install insctuctions:
   Place the 4NXCI-GUI.EXE in the same folder where your 4NXCI.EXE resides.
-
-https://github.com/KipperKahn/4NXCI-GUI/releases/download/v.01/4NXCI-GUI.rar
